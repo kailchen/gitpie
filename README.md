@@ -1,3 +1,3 @@
 # gitpie
 
-Jeanney dragged me in PiE
+Jeanney dragged me into PiE
